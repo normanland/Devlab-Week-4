@@ -40,8 +40,7 @@ grocery_basket_analysis/
 │   └── top10_customers_monthly_frequency.png
 ├── grocery_basket_analysis.ipynb
 ├── note.md
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## Results I would keep in mind
