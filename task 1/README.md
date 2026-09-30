@@ -288,7 +288,7 @@ What should the business do next?
 
 ---
 
-## 📁 Suggested Repository Structure
+## 📁 Repository Structure
 
 ```text
 Telco-Customer-Churn-Dashboard/
